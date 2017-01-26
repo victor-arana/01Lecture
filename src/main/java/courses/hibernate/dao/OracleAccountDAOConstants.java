@@ -2,7 +2,7 @@ package courses.hibernate.dao;
 
 public class OracleAccountDAOConstants {
 
-	public static final String URL = "jdbc:oracle:thin:lecture1/lecture1@localhost:1521:XE";
+	public static final String URL = "jdbc:oracle:thin:lecture1/reverload@localhost:1521:XE";
 
 	public static String GET_ACCOUNT_ID = "SELECT ACCOUNT_ID_SEQ.NEXTVAL FROM DUAL";
 
