@@ -48,8 +48,7 @@ public class AccountDAOOracle implements AccountDAOInterface {
 	/**
 	 * Create a new account
 	 * 
-	 * @param account
-	 *            account to be created
+	 * @param account account to be created
 	 * @return created account
 	 */
 	@Override
